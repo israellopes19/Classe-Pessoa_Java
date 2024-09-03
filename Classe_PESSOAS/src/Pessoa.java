@@ -1,3 +1,5 @@
+// 1º primeiro lugar começa aqui.
+
 public abstract class Pessoa {
     private String nome;
     private String data;
